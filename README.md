@@ -1,7 +1,7 @@
 # DOKUMENTASI DATA KULIAH
-## MATA KULIAH OOP 2
-### PEMROGRAMAN JAVA
-Kampus STMIK SUBANG Jawa Barat
+## MATA KULIAH OOP 2 - PEMROGRAMAN JAVA
+dokumentasi ini di buat untuk koleksi proyek tugas latihan yang telah saya buat ketika kuliah di 
+**Kampus STMIK SUBANG Jawa Barat**
 ```
 pert_01
 ```
