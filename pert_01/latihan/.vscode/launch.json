@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Buku",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Buku",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - kuadrat",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "kuadrat",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - konstruktorMhs",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "konstruktorMhs",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - methodMhs",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "methodMhs",
+            "args": ""
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+*.rar
+/.vscode
+/.git
+/Pert_01/*.pdf
+/Pert_02/*.pdf
+/Pert_03/*.pdf
+*.class
